@@ -1,10 +1,12 @@
-# desafio_aula1_mockup
+# Desafio Aula 1 mockup Masterclass 4 Flutterando
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este é um app de desafio com as telas propostas:
+
+![Screenshot 1](../desafio_aula1_mockup/assets/desafio1.png) ![Screenshot 2](../desafio_aula1_mockup/assets/desafio1-2.png) 
 
 A few resources to get you started if this is your first Flutter project:
 
