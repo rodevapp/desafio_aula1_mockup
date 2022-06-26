@@ -6,7 +6,7 @@ A new Flutter project.
 
 Este é um app de desafio com as telas propostas:
 
-![Screenshot 1](../master/desafio_aula1_mockup/assets/desafio1.png) ![Screenshot 2](..7master/desafio_aula1_mockup/assets/desafio1-2.png) 
+![Screenshot 1](https://github.com/rodevapp/desafio_aula1_mockup/blob/821add7e43ae30bb0edac82eabcbead58bcc50da/assets/desafio1.png) ![Screenshot 2](https://github.com/rodevapp/desafio_aula1_mockup/blob/821add7e43ae30bb0edac82eabcbead58bcc50da/assets/desafio1-2.png) 
 
 A few resources to get you started if this is your first Flutter project:
 
